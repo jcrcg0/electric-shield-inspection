@@ -1,0 +1,17 @@
+# 统一配置文件
+project_root: "D:/Point Cloud/Pointnet2"
+
+equipments:
+  transformer:
+    name: "变电站变压器"
+    extraction_method: "registration"
+    standard_model_path: "data/standard_models/transformer_std.ply"
+    model_weight_path: "models/weights/transformer_point_mae.pth"
+    voxel_size: 0.05
+    
+  insulator:
+    name: "绝缘子串"
+    extraction_method: "registration"
+    standard_model_path: "data/standard_models/insulator_std.ply"
+    model_weight_path: "models/weights/insulator_point_mae.pth"
+    voxel_size: 0.02
