@@ -128,5 +128,9 @@
 
 \## 项目结构（仓库文件）
 
+## 我的联系方式
 
+- 邮箱：jcr35442668@qq.com
+- 电话：19150165863
+- 本仓库：https://github.com/jcrcg0/electric-shield-inspection
 
